@@ -16,24 +16,6 @@ import os
 
 
 
-EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
-EMAIL_HOST = 'smtp.gmail.com' 
-EMAIL_PORT = 587
-EMAIL_USE_TLS = True  
-EMAIL_HOST_USER = 'youssefichiba@gmail.com'
-EMAIL_HOST_PASSWORD = 'aehm cobk lhfd fevc'
-
-# SECURE_SSL_REDIRECT = True
-
-
-
-UID = 'u-s4t2ud-e603faeb043593848ed0606065f5091f853421079de2b07c95868c0314f9210b'
-
-SECRET = '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'
-REDIRECT_URI = 'https://10.30.252.193/callback'
-
-
-JWT_SECRET_KEY="yichiba94@"
 
 AUTH_USER_MODEL = 'accounts.CustomUser'
 
