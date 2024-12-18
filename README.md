@@ -50,10 +50,7 @@ git clone https://github.com/Nellaoui/ft_transcendence.git
 cd ft_transcendence
 ```
 
-2. Create a `.env` file with necessary environment variables:
-```bash
-# Add your environment variables here
-```
+2. Create a `.env` file with necessary environment variables
 
 3. Build and run the containers:
 ```bash
